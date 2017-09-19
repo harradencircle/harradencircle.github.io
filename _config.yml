@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://harradencircle.com
+title: Harraden Circle Investments, LLC
+email: ffortmiller@harraden.com
+author: Keon Kim
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Copyright &copy; 2015 Harraden Circle. All Rights Reserved.'
+credits: 'Harraden Circle Investments'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: github
+    url: https://github.com/harradencircle/harradencircle.github.io
+  - title: linkedin
+    url: 
